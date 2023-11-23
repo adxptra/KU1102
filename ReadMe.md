@@ -33,8 +33,12 @@
 ## Install libraries
 ### Using python pip
 pip install -r requirements.txt
+
 or
+
 pip install schemdraw
+
 pip install pandas
+
 pip install matplotlib
 
