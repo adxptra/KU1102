@@ -1,1 +1,3 @@
 schemdraw
+pandas
+matplotlib
