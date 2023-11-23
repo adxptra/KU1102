@@ -21,8 +21,20 @@
 ## Solusi Latihan_Soal_Minggu_10
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adxptra/KU1102/main?labpath=Latihan_Soal_Minggu_10_Solutions.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adxptra/KU1102/blob/main/Latihan_Soal_Minggu_10_Solutions.ipynb)
+
+## Materi Latihan Minggu_12
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adxptra/KU1102/main?labpath=Minggu_12.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adxptra/KU1102/blob/main/Minggu_12.ipynb)
+
+## Materi Latihan Minggu_13
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adxptra/KU1102/main?labpath=Minggu_13.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adxptra/KU1102/blob/main/Minggu_13.ipynb)
+
 ## Install libraries
 ### Using python pip
 pip install -r requirements.txt
 or
 pip install schemdraw
+pip install pandas
+pip install matplotlib
+
